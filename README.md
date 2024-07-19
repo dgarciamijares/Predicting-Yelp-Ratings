@@ -64,9 +64,9 @@ Each observation contains the average star rating, number of reviews, and a list
 
 ### Classification Models
 
-1. **Thresholding Regression Models: Linear and regression tree models thresholded at a value of 4.
-2. **Logistic Regression: Built using all independent variables.
-3. **Classification Tree: Constructed using the CART algorithm, with hyperparameters selected through cross-validation.
+1. **Thresholding Regression Models**: Linear and regression tree models thresholded at a value of 4.
+2. **Logistic Regression**: Built using all independent variables.
+3. **Classification Tree**: Constructed using the CART algorithm, with hyperparameters selected through cross-validation.
 
 ### Evaluation Metrics
 
